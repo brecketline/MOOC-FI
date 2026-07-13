@@ -1,4 +1,4 @@
-# MOOC-FI — Python Programming (University of Helsinki)
+# Python Programming (University of Helsinki)
 
 Exercises and mini-projects completed as part of the [Python Programming MOOC](https://programming-hy.mooc.fi/), 
 offered by the University of Helsinki.
